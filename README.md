@@ -9,3 +9,8 @@ practicar comando git pull
 1. Michael
 1. Giancarlo
 1. Adrián
+
+* Amigo
+* Bandido
+* Cirius
+* Argos
